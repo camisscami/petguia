@@ -1,0 +1,20 @@
+body { font-family: Arial; background: #FFF7ED; margin: 0; }
+header { background: #2E9E5B; color: white; text-align: center; padding: 20px; }
+header nav a { color: white; margin: 0 10px; text-decoration: none; font-weight: bold; }
+main { padding: 20px; text-align: center; }
+input { width: 90%; max-width: 400px; padding: 12px; border-radius: 10px; border: 1px solid #ddd; font-size: 16px; }
+.filtros button { padding: 8px 14px; border: none; border-radius: 20px; background: #D9F5E5; margin: 4px; cursor: pointer; }
+/* .card { background: white; padding: 15px; border-radius: 15px-display: flex;, gap: 12px; text-align: left: .pode{
+  background: #e8f5e9;
+  border: 1px solid #4caf50;
+  border-radius: 10px;
+  padding: 10px;
+  flex: 1;
+}
+.nao-pode{
+  background: #ffebee;
+  border: 1px solid #ef5350;
+  border-radius: 10px;
+  padding: 10px;
+  flex: 1;
+};
